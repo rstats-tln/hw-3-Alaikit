@@ -1,6 +1,6 @@
 ---
 title: "dplyr filter homework"
-author: "Your Name"
+author: "Dmitri Pismennõi"
 date: "2019-03-12"
 output: html_document
 ---
